@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>form</title>
+        <link rel="stylesheet" href="Form.css">
+    </head>
+    <body  bgcolor="pink">
+        <center id="cen1">
+      <table  height="200" width="500"  >
+       <tr> 
+        <td align="center" id="col1">
+            <div id="div1">
+                <center id="cen2">
+                <h1 id="text1">Let's Chat</h1>
+                <p id="text2">Whether you have a question,want to<br>start a project or simply want to connect.</p><br>
+                <p id="text3">
+                   Feel free to send me a message in the contact form
+                </p>
+            </center>
+            </div>
+        </td>
+        <td  id="col2" align="center">
+        <div id="div2">
+        <center id="cen3">
+            <h1 id="one">Contact</h1>
+            <h5 align="left">*Required</h5>
+            <form action="reg.jsp" name="reg" method="post">
+                <input type="text" name="uname" placeholder="Username*" required id="two"><br><br>
+                <input type="password" name="pword" placeholder="Password*" id="three"><br><br>
+                <input type="email" name="mail" placeholder="email*" id="four"><br><br>
+                <input type="tel" pattern="[0-9]{10}" name="mobileno" placeholder="contact" id="five"><br><br>
+                <textarea maxlength="200" row="30" col="90"  placeholder="message" id="six"></textarea><br><br>
+                <input type="submit" id="seven">
+            </form>
+        </center>
+        </div>
+    </td>
+    </tr>
+    </table>
+</center>
+    </body>
+</html>

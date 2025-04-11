@@ -1,0 +1,9 @@
+input[id^=demo]
+{
+    background-color:yellow;
+}
+input[id|=firstdemo]
+{
+    color:red;
+    background-color:rgb(73, 211, 96);
+}

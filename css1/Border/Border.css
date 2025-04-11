@@ -1,0 +1,52 @@
+div
+{
+    border-style: dotted;
+    width:500px;
+    border-color: green;
+    border-radius: 200px;
+    border: width 5px;
+    padding: 50px;
+   
+  
+    
+}
+#C
+{
+    padding-left: 100px;
+    border-style:double;
+    margin: 10px;
+    border-radius: 10px;
+    border-color:red;
+}
+#A
+{
+    
+    border-style:double;
+    margin: 10px;
+    border-radius: 10px;
+    border-color:red;
+}
+
+#D
+{
+   
+    border-style:double;
+    margin: 10px;
+    border-radius: 10px;
+    border-color:red;
+}
+#B
+{
+    border-style:double;
+    margin: 10px;
+    border-radius: 10px;
+    border-color:red;
+}
+#E
+{
+    border-style:double;
+    margin: 10px;
+    border-radius: 10px;
+    border-color:red;
+
+}

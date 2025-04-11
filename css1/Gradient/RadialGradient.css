@@ -1,0 +1,24 @@
+.one
+{
+    background-image: Radial-gradient(red,yellow);
+}
+.two
+{
+    background-image:Radial-gradient(orange,white,green);
+}
+.three
+{
+    background-image: Radial-gradient( red,blue,purple);
+}
+.four
+{
+    background-image: Radial-gradient(cyan,silver,black);
+}
+.five
+{
+    background-image: repeating-Radial-gradient(brown 10% ,white 20% ,yellow 25% );
+}
+.six
+{
+    background-image:repeating-Radial-gradient(rgb(228, 13, 157) 10%,white 20%, green 30%);
+}

@@ -1,0 +1,17 @@
+h1{
+    color:rgb(231, 108, 108);
+    background-color: aquamarine;
+    border-color:blueviolet;
+}
+h2{
+    color:rgb(213, 231, 108);
+    background-color: rgb(187, 9, 163);
+    
+    border-color:rgb(52, 10, 165);
+}
+h3{
+    color:rgb(18, 174, 57);
+    background-color: rgb(164, 167, 152);
+    
+    border-color:rgb(212, 73, 30);
+}

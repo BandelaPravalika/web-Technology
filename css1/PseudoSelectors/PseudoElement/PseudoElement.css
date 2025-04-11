@@ -1,0 +1,13 @@
+#demo::first-letter
+{
+    color:green;
+    font-size: 50px;
+}
+#test::first-line
+{
+    color:red;
+}
+#task::selection{
+    color:blue;
+    background-color: yellow;
+}

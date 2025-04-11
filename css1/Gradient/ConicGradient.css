@@ -1,0 +1,24 @@
+.one
+{
+    background-image: conic-gradient(red ,yellow );
+}
+.two
+{
+    background-image:conic-gradient( orange,white,green);
+}
+.three
+{
+    background-image: conic-gradient( red,blue,purple);
+}
+.four
+{
+    background-image: conic-gradient(cyan,silver,black);
+}
+.five
+{
+    background-image: repeating-conic-gradient( brown 10% ,white 20% ,yellow 25% );
+}
+.six
+{
+    background-image:repeating-conic-gradient(rgb(228, 13, 157) 10%,white 20%, green 30%);
+}

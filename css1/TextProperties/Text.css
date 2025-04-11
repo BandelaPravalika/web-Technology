@@ -1,0 +1,15 @@
+body
+{
+    color:blue;
+    text-align:center;
+    letter-spacing:1px;
+    word-spacing:10px;
+    line-height:15px;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:green;
+    text-emphasis-style:triangle;
+    text-emphasis-color:red;
+    text-decoration-thickness: 2px;
+    text-shadow: 1px 1px black;
+}

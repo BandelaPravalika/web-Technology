@@ -1,0 +1,16 @@
+#contents h1
+{
+    color:red;
+}
+#contents>h1
+{
+   background-color: yellow;
+}
+#contents+h1
+{
+    background-color: cyan;
+}
+content~h1
+{
+    color:green;
+}

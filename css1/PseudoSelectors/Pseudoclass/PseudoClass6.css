@@ -1,0 +1,20 @@
+#demo:invalid
+{
+    border-style: solid;
+    border-width:5px ;
+    border-color: red;
+}
+#demo:valid
+{
+    border-style: solid;
+    border-width:5px ;
+    border-color: green;
+}
+input:required
+{
+    background-color: cyan;
+}
+input:optional
+{
+    background-color: yellow;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="Calci.css">
+</head>
+<body>
+    <div style="text-align: center;">
+        <table>
+            <tr>
+                <th colspan="4"><h1 id="h1">Welcome to Calculator</h1></th>
+            </tr>
+            <tr>
+                <td id="zero" colspan="4" style="text-align: right;">0</td>
+            </tr>
+            <tr>
+                <td>
+                    <svg>
+                        <circle id="c11" cx="60" cy="60" r="20" stroke="white" fill="silver"/>
+                        <text id="t11" x="60" y="65" fill="black" text-anchor="middle" dominant-baseline="middle">AC</text>
+                    </svg>
+                </td>
+                <td>
+                    <svg>
+                        <circle id="c12" cx="60" cy="60" r="20" stroke="white" fill="silver"/>
+                        <text id="t12" x="60" y="65" fill="black" text-anchor="middle" dominant-baseline="middle">&larr;</text>
+                    </svg>
+                </td>
+                <td>
+                    <svg>
+                        <circle id="c13" cx="60" cy="60" r="20" stroke="white" fill="silver"/>
+                        <text id="t13" x="60" y="65" fill="black" text-anchor="middle" dominant-baseline="middle">%</text>
+                    </svg>
+                </td>
+                <td>
+                    <svg>
+                        <circle id="c14" cx="60" cy="60" r="20" stroke="white" fill="orange"/>
+                        <text id="t14" x="60" y="65" fill="black" text-anchor="middle" dominant-baseline="middle">÷</text>
+                    </svg>
+                </td>
+            </tr>
+            <!-- Similar corrections for other rows -->
+        </table>
+    </div>
+</body>
+</html>

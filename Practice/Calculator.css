@@ -1,0 +1,22 @@
+/* table {
+    width: 90%;
+  }
+  td {
+    width: 5%;
+    position: relative;
+  }
+  td .content {
+    aspect-ratio: 1 / 1 ;
+    background: gold;
+  } */
+
+  td{
+    width: 10%;
+    border-radius: 100%;
+    text-align: center;
+  }
+  #result{
+    width: unset;
+    border-radius: unset;
+    text-align: right;
+  }

@@ -1,0 +1,24 @@
+.one
+{
+    background-image: linear-gradient(red,yellow);
+}
+.two
+{
+    background-image:linear-gradient(orange,white,green);
+}
+.three
+{
+    background-image: linear-gradient(to right, red,blue,purple);
+}
+.four
+{
+    background-image: linear-gradient(to bottom left,cyan,silver,black);
+}
+.five
+{
+    background-image: repeating-linear-gradient( to top right,brown 10% ,white 20% ,yellow 25% );
+}
+.six
+{
+    background-image:repeating-linear-gradient(to bottom right,rgb(228, 13, 157) 10%,white 20%, green 30%);
+}

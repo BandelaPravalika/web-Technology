@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Demonstration of email,number,tel,search attributes</title>
+    </head>
+    <body>
+        <form action="reg.jsp" name="reg" method="get" autocomplete="off" novalidate target="_blank">
+            <center>
+                <label for="mail">Enter your email Id</label>
+                <input type="email" readonly name="mail" >
+                <br><br>
+                <label for="marks">Enter your marks</label>
+                <input type="number" max="100" min="0" name="marks">
+                <br><br>
+                <label for="mobileno" >Enter your Phone number</label>
+                <input type="tel" pattern[0-9]{10}  placeholder="hii" name="mobileno"><br><br>
+                <label for="keywords">Enter Keywords</label>
+                <input type="search" name="keywords">
+                <br><br>
+            
+                <input type="submit"><input type="reset">
+            </center>
+
+        </form>
+    </body>
+</html>

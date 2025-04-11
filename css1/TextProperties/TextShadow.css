@@ -1,0 +1,23 @@
+#one{
+    text-shadow:2px 2px;
+}
+#two{
+    color:blue
+    text-shadow:2px 2px;
+}
+#three{
+    color:pink;
+    text-shadow:2px 2px 2px red;
+}
+#four{
+    color:purple;
+    text-shadow:2px 2px 5px red;
+}
+#five{
+    color:white;
+    text-shadow:2px 2px 8px blue;
+}
+#six{
+    color:white;
+    text-shadow:3px 3px 10px purple;
+}
